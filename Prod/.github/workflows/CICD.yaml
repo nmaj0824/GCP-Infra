@@ -1,0 +1,10 @@
+name:CICD for terraform
+on:
+ push:
+  branches:
+       -main
+
+env :
+    PROJECT_ID: terraform-learn-gcp-471912
+  REGION: asia-south1
+  ZONE: asia-south1-a
