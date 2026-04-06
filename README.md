@@ -1,2 +1,2 @@
 # GCP-Infra
-This is a capstone Project for Terraform using terraform provisiong of gcp components using the secrets and vault 
+This is a capstone Project using terraform provisiong for gcp components using the secrets and vault 
